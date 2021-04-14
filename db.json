@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Ali Eren",
+      "last_name": "Kebapcı",
+      "email": "erenkebapci@gmail.com",
+      "username": "ali.eren.kebapci"
+    },
+    {
+      "id": 2,
+      "first_name": "Ayberk",
+      "last_name": "Çırak",
+      "email": "ayberk@cirak.com",
+      "username": "ayberk.cirak"
+    },
+    {
+      "id": 3,
+      "first_name": "Serdar",
+      "last_name": "Erdem",
+      "email": "serdar@erdem.com",
+      "username": "serdar.erdem"
+    },
+    {
+      "id": 4,
+      "first_name": "Sinem",
+      "last_name": "Çimen",
+      "email": "sinem@cimen.com",
+      "username": "sinem.cimen"
+    },
+    {
+      "id": 5,
+      "first_name": "Deniz",
+      "last_name": "Balcı",
+      "email": "deniz@balci.me",
+      "username": "deniz.balci"
+    },
+    {
+      "id": 8,
+      "first_name": "Mehmet",
+      "last_name": "Özdemir",
+      "email": "mehmet@ozdemir.com",
+      "username": "mehmet.ozdemir"
+    }
+  ]
+}

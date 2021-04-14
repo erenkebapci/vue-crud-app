@@ -4,7 +4,7 @@
       <div class="col-md-3 headerBackg">
         <Header />
       </div>
-      <div class="col-md-9 bgColor">
+      <div class="col-md-9">
         <router-view></router-view>
       </div>
     </div>
@@ -37,7 +37,5 @@ export default {
 }
 .mainWrapper {
   height: 100vh !important;
-}
-.bgColor {
 }
 </style>
